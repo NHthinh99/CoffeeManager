@@ -1,0 +1,63 @@
+D:\Hoc tap\Đồ án CS KTPM\hethongcafe\bin\Debug\hethongcafe.exe.config
+D:\Hoc tap\Đồ án CS KTPM\hethongcafe\bin\Debug\hethongcafe.exe
+D:\Hoc tap\Đồ án CS KTPM\hethongcafe\bin\Debug\hethongcafe.pdb
+D:\Hoc tap\Đồ án CS KTPM\hethongcafe\obj\Debug\hethongcafe.Form1.resources
+D:\Hoc tap\Đồ án CS KTPM\hethongcafe\obj\Debug\hethongcafe.Properties.Resources.resources
+D:\Hoc tap\Đồ án CS KTPM\hethongcafe\obj\Debug\hethongcafe.csproj.GenerateResource.Cache
+D:\Hoc tap\Đồ án CS KTPM\hethongcafe\obj\Debug\hethongcafe.exe
+D:\Hoc tap\Đồ án CS KTPM\hethongcafe\obj\Debug\hethongcafe.pdb
+D:\Hoc tap\Đồ án CS KTPM\hethongcafe\obj\Debug\hethongcafe.csprojResolveAssemblyReference.cache
+D:\Hoc tap\Đồ án CS KTPM\hethongcafe\obj\Debug\hethongcafe.DangKi.resources
+D:\Hoc tap\Đồ án CS KTPM\hethongcafe\obj\Debug\hethongcafe.DangNhap.resources
+D:\Hoc tap\Đồ án CS KTPM\hethongcafe\obj\Debug\hethongcafe.ThanhToan.resources
+D:\Hoc tap\Đồ án CS KTPM\hethongcafe\obj\Debug\hethongcafe.ThongTInCaNhan.resources
+D:\Class\Đồ án CS KTPM\hethongcafe\bin\Debug\hethongcafe.exe.config
+D:\Class\Đồ án CS KTPM\hethongcafe\obj\Debug\hethongcafe.exe
+D:\Class\Đồ án CS KTPM\hethongcafe\obj\Debug\hethongcafe.pdb
+D:\Class\Đồ án CS KTPM\hethongcafe\bin\Debug\hethongcafe.exe
+D:\Class\Đồ án CS KTPM\hethongcafe\bin\Debug\hethongcafe.pdb
+D:\Class\Đồ án CS KTPM\hethongcafe\obj\Debug\hethongcafe.csprojResolveAssemblyReference.cache
+D:\Class\Đồ án CS KTPM\hethongcafe\obj\Debug\hethongcafe.DangKi.resources
+D:\Class\Đồ án CS KTPM\hethongcafe\obj\Debug\hethongcafe.DangNhap.resources
+D:\Class\Đồ án CS KTPM\hethongcafe\obj\Debug\hethongcafe.TrangChu.resources
+D:\Class\Đồ án CS KTPM\hethongcafe\obj\Debug\hethongcafe.Properties.Resources.resources
+D:\Class\Đồ án CS KTPM\hethongcafe\obj\Debug\hethongcafe.ThanhToan.resources
+D:\Class\Đồ án CS KTPM\hethongcafe\obj\Debug\hethongcafe.ThongTInCaNhan.resources
+D:\Class\Đồ án CS KTPM\hethongcafe\obj\Debug\hethongcafe.csproj.GenerateResource.Cache
+D:\tài liệu\Đồ án CS KTPM\hethongcafe\bin\Debug\hethongcafe.exe.config
+D:\tài liệu\Đồ án CS KTPM\hethongcafe\bin\Debug\hethongcafe.exe
+D:\tài liệu\Đồ án CS KTPM\hethongcafe\bin\Debug\hethongcafe.pdb
+D:\tài liệu\Đồ án CS KTPM\hethongcafe\obj\Debug\hethongcafe.Admin.resources
+D:\tài liệu\Đồ án CS KTPM\hethongcafe\obj\Debug\hethongcafe.DangKi.resources
+D:\tài liệu\Đồ án CS KTPM\hethongcafe\obj\Debug\hethongcafe.DangNhap.resources
+D:\tài liệu\Đồ án CS KTPM\hethongcafe\obj\Debug\hethongcafe.Properties.Resources.resources
+D:\tài liệu\Đồ án CS KTPM\hethongcafe\obj\Debug\hethongcafe.csproj.GenerateResource.Cache
+D:\tài liệu\Đồ án CS KTPM\hethongcafe\obj\Debug\hethongcafe.exe
+D:\tài liệu\Đồ án CS KTPM\hethongcafe\obj\Debug\hethongcafe.pdb
+D:\tài liệu\Đồ án CS KTPM\hethongcafe\obj\Debug\hethongcafe.csprojResolveAssemblyReference.cache
+D:\tài liệu\Đồ án CS KTPM\hethongcafe\obj\Debug\hethongcafe.fTableManager.resources
+D:\tài liệu\Đồ án CS KTPM\hethongcafe\obj\Debug\hethongcafe.fAccountProfile.resources
+E:\tài liệu\Đồ án CS KTPM\hethongcafe\bin\Debug\hethongcafe.exe.config
+E:\tài liệu\Đồ án CS KTPM\hethongcafe\obj\Debug\hethongcafe.exe
+E:\tài liệu\Đồ án CS KTPM\hethongcafe\obj\Debug\hethongcafe.pdb
+E:\tài liệu\Đồ án CS KTPM\hethongcafe\bin\Debug\hethongcafe.exe
+E:\tài liệu\Đồ án CS KTPM\hethongcafe\bin\Debug\hethongcafe.pdb
+E:\tài liệu\Đồ án CS KTPM\hethongcafe\obj\Debug\hethongcafe.Admin.resources
+E:\tài liệu\Đồ án CS KTPM\hethongcafe\obj\Debug\hethongcafe.DangNhap.resources
+E:\tài liệu\Đồ án CS KTPM\hethongcafe\obj\Debug\hethongcafe.Properties.Resources.resources
+E:\tài liệu\Đồ án CS KTPM\hethongcafe\obj\Debug\hethongcafe.fTableManager.resources
+E:\tài liệu\Đồ án CS KTPM\hethongcafe\obj\Debug\hethongcafe.fAccountProfile.resources
+E:\tài liệu\Đồ án CS KTPM\hethongcafe\obj\Debug\hethongcafe.csproj.GenerateResource.Cache
+E:\tài liệu\Đồ án CS KTPM\hethongcafe\bin\Debug\Microsoft.CSharp.dll
+E:\tài liệu\Đồ án CS KTPM\hethongcafe\bin\Debug\System.Data.DataSetExtensions.dll
+E:\tài liệu\Đồ án CS KTPM\hethongcafe\bin\Debug\System.Data.dll
+E:\tài liệu\Đồ án CS KTPM\hethongcafe\bin\Debug\System.Deployment.dll
+E:\tài liệu\Đồ án CS KTPM\hethongcafe\bin\Debug\System.dll
+E:\tài liệu\Đồ án CS KTPM\hethongcafe\bin\Debug\System.Drawing.dll
+E:\tài liệu\Đồ án CS KTPM\hethongcafe\bin\Debug\System.Web.Services.dll
+E:\tài liệu\Đồ án CS KTPM\hethongcafe\bin\Debug\System.Windows.Forms.dll
+E:\tài liệu\Đồ án CS KTPM\hethongcafe\bin\Debug\System.Xml.dll
+E:\tài liệu\Đồ án CS KTPM\hethongcafe\bin\Debug\System.Xml.Linq.dll
+E:\tài liệu\Đồ án CS KTPM\hethongcafe\obj\Debug\hethongcafe.csprojAssemblyReference.cache
+E:\tài liệu\Đồ án CS KTPM\hethongcafe\obj\Debug\hethongcafe.csproj.CoreCompileInputs.cache
+E:\tài liệu\Đồ án CS KTPM\hethongcafe\obj\Debug\hethongcafe.csproj.CopyComplete
